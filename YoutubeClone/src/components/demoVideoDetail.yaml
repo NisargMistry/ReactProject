@@ -1,0 +1,13 @@
+{kind: 'youtube#searchResult', id: {…}, snippet: {…}}
+id
+: 
+{kind: 'youtube#channel', channelId: 'UCV9FxSrPVEX3vjBax04V_uA'}
+kind
+: 
+"youtube#searchResult"
+snippet
+: 
+{publishedAt: '2018-06-29T08:11:13Z', channelId: 'UCV9FxSrPVEX3vjBax04V_uA', title: 'Booba Cartoon – New Episodes and Compilations', description: 'This animated cartoon is about Booba, a cute and i…a five-year-old kid. Booba explores the world ...', thumbnails: {…}, …}
+[[Prototype]]
+: 
+Object

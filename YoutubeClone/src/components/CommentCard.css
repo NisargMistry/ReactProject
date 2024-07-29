@@ -1,0 +1,58 @@
+/* CommentCard.css */
+*{
+  font-family: "Poppins", sans-serif;;
+}
+.comment-card {
+  display: flex;
+  align-items: flex-start;
+  margin-bottom: 15px;
+  padding: 15px;
+  border: 1px solid ;
+  border-radius: 8px;
+  background-color: black;
+  color: #fff;
+}
+
+.comment-card img {
+  margin-right: 15px;
+  border-radius: 50%;
+  width: 48px;
+  height: 48px;
+}
+
+.comment-content {
+  flex: 1;
+}
+
+.comment-content h4 {
+  margin: 0;
+  font-size: 16px;
+  font-weight: bold;
+  color: #fff;
+  
+}
+
+.comment-content p {
+  margin: 5px 0;
+  font-size: 14px;
+  color: #ddd;
+}
+
+.comment-footer {
+  margin-top: 10px;
+  display: flex;
+  align-items: center;
+  font-size: 13px;
+}
+
+.comment-footer span {
+  margin-right: 10px;
+  color: #888;
+}
+
+.comment-footer button {
+  background: none;
+  border: none;
+  color: #1e90ff;
+  cursor: pointer;
+}
